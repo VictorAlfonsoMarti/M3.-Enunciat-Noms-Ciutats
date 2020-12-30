@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\bin\Debug\netcoreapp3.1\Exercici Noms Ciutats.exe
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\bin\Debug\netcoreapp3.1\Exercici Noms Ciutats.deps.json
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\bin\Debug\netcoreapp3.1\Exercici Noms Ciutats.runtimeconfig.json
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\bin\Debug\netcoreapp3.1\Exercici Noms Ciutats.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\bin\Debug\netcoreapp3.1\Exercici Noms Ciutats.dll
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\bin\Debug\netcoreapp3.1\Exercici Noms Ciutats.pdb
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\obj\Debug\netcoreapp3.1\Exercici Noms Ciutats.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\obj\Debug\netcoreapp3.1\Exercici Noms Ciutats.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\obj\Debug\netcoreapp3.1\Exercici Noms Ciutats.AssemblyInfo.cs
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\obj\Debug\netcoreapp3.1\Exercici Noms Ciutats.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\obj\Debug\netcoreapp3.1\Exercici Noms Ciutats.dll
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\obj\Debug\netcoreapp3.1\Exercici Noms Ciutats.pdb
+C:\Users\victo\source\repos\Exercici Noms Ciutats\Exercici Noms Ciutats\obj\Debug\netcoreapp3.1\Exercici Noms Ciutats.genruntimeconfig.cache
